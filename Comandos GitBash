@@ -1,0 +1,11 @@
+git clone https://github.com/zizaisolina/pami-isadora-brandao.git
+cd pami-isadora-brandao/
+git config --global user.name "Isadora Ribeiro"
+git config --global user.email zizaisolina@gmail.com
+git config --global --list
+git status
+git add .
+git status
+git commit -m "Mensagem"
+git status
+git push
